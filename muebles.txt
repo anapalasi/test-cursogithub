@@ -1,3 +1,4 @@
 silla
 mesas
 sofas
+sillones
